@@ -16,6 +16,6 @@ public class OperatorBinary {
         System.out.println(9*3);
         System.out.println(9/3);
         System.out.println(9%3);
-        System.out.println(9%2);   
+        System.out.println(9%2);
     }
 }
