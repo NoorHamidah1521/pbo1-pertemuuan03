@@ -18,7 +18,7 @@ public class PercabanganSwitch {
             default;
             System.out.println("mahluk halus");
             break;
-            
+
 
         }
     }
